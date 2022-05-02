@@ -1,12 +1,21 @@
-# Tags: latest, 4.1.9-debian-10-r59, 4.1.9, 4-debian-10, 4
+# Tags: latest, 4.1.9-debian-10-r62, 4.1.9, 4-debian-10, 4
 FROM bitnami/codeigniter:latest
-FROM bitnami/codeigniter:4.1.9-debian-10-r59
+FROM bitnami/codeigniter:4.1.9-debian-10-r62
 FROM bitnami/codeigniter:4.1.9
 FROM bitnami/codeigniter:4-debian-10
 FROM bitnami/codeigniter:4
 
 # Tags: _
 FROM bitnami/codeigniter:_
+
+# Tags: 4.1.9-debian-10-r61
+FROM bitnami/codeigniter:4.1.9-debian-10-r61
+
+# Tags: 4.1.9-debian-10-r60
+FROM bitnami/codeigniter:4.1.9-debian-10-r60
+
+# Tags: 4.1.9-debian-10-r59
+FROM bitnami/codeigniter:4.1.9-debian-10-r59
 
 # Tags: 4.1.9-debian-10-r58
 FROM bitnami/codeigniter:4.1.9-debian-10-r58
@@ -82,12 +91,3 @@ FROM bitnami/codeigniter:4.1.9-debian-10-r35
 
 # Tags: 4.1.9-debian-10-r34
 FROM bitnami/codeigniter:4.1.9-debian-10-r34
-
-# Tags: 4.1.9-debian-10-r33
-FROM bitnami/codeigniter:4.1.9-debian-10-r33
-
-# Tags: 4.1.9-debian-10-r32
-FROM bitnami/codeigniter:4.1.9-debian-10-r32
-
-# Tags: 4.1.9-debian-10-r31
-FROM bitnami/codeigniter:4.1.9-debian-10-r31
