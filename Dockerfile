@@ -1,12 +1,15 @@
-# Tags: latest, 4.1.9-debian-10-r62, 4.1.9, 4-debian-10, 4
+# Tags: latest, 4.1.9-debian-10-r63, 4.1.9, 4-debian-10, 4
 FROM bitnami/codeigniter:latest
-FROM bitnami/codeigniter:4.1.9-debian-10-r62
+FROM bitnami/codeigniter:4.1.9-debian-10-r63
 FROM bitnami/codeigniter:4.1.9
 FROM bitnami/codeigniter:4-debian-10
 FROM bitnami/codeigniter:4
 
 # Tags: _
 FROM bitnami/codeigniter:_
+
+# Tags: 4.1.9-debian-10-r62
+FROM bitnami/codeigniter:4.1.9-debian-10-r62
 
 # Tags: 4.1.9-debian-10-r61
 FROM bitnami/codeigniter:4.1.9-debian-10-r61
