@@ -1,12 +1,42 @@
-# Tags: latest, 4.1.9-debian-10-r63, 4.1.9, 4-debian-10, 4
+# Tags: latest, 4.1.9-debian-10-r73, 4.1.9, 4-debian-10, 4
 FROM bitnami/codeigniter:latest
-FROM bitnami/codeigniter:4.1.9-debian-10-r63
+FROM bitnami/codeigniter:4.1.9-debian-10-r73
 FROM bitnami/codeigniter:4.1.9
 FROM bitnami/codeigniter:4-debian-10
 FROM bitnami/codeigniter:4
 
 # Tags: _
 FROM bitnami/codeigniter:_
+
+# Tags: 4.1.9-debian-10-r72
+FROM bitnami/codeigniter:4.1.9-debian-10-r72
+
+# Tags: 4.1.9-debian-10-r71
+FROM bitnami/codeigniter:4.1.9-debian-10-r71
+
+# Tags: 4.1.9-debian-10-r70
+FROM bitnami/codeigniter:4.1.9-debian-10-r70
+
+# Tags: 4.1.9-debian-10-r69
+FROM bitnami/codeigniter:4.1.9-debian-10-r69
+
+# Tags: 4.1.9-debian-10-r68
+FROM bitnami/codeigniter:4.1.9-debian-10-r68
+
+# Tags: 4.1.9-debian-10-r67
+FROM bitnami/codeigniter:4.1.9-debian-10-r67
+
+# Tags: 4.1.9-debian-10-r66
+FROM bitnami/codeigniter:4.1.9-debian-10-r66
+
+# Tags: 4.1.9-debian-10-r65
+FROM bitnami/codeigniter:4.1.9-debian-10-r65
+
+# Tags: 4.1.9-debian-10-r64
+FROM bitnami/codeigniter:4.1.9-debian-10-r64
+
+# Tags: 4.1.9-debian-10-r63
+FROM bitnami/codeigniter:4.1.9-debian-10-r63
 
 # Tags: 4.1.9-debian-10-r62
 FROM bitnami/codeigniter:4.1.9-debian-10-r62
@@ -64,33 +94,3 @@ FROM bitnami/codeigniter:4.1.9-debian-10-r45
 
 # Tags: 4.1.9-debian-10-r44
 FROM bitnami/codeigniter:4.1.9-debian-10-r44
-
-# Tags: 4.1.9-debian-10-r43
-FROM bitnami/codeigniter:4.1.9-debian-10-r43
-
-# Tags: 4.1.9-debian-10-r42
-FROM bitnami/codeigniter:4.1.9-debian-10-r42
-
-# Tags: 4.1.9-debian-10-r41
-FROM bitnami/codeigniter:4.1.9-debian-10-r41
-
-# Tags: 4.1.9-debian-10-r40
-FROM bitnami/codeigniter:4.1.9-debian-10-r40
-
-# Tags: 4.1.9-debian-10-r39
-FROM bitnami/codeigniter:4.1.9-debian-10-r39
-
-# Tags: 4.1.9-debian-10-r38
-FROM bitnami/codeigniter:4.1.9-debian-10-r38
-
-# Tags: 4.1.9-debian-10-r37
-FROM bitnami/codeigniter:4.1.9-debian-10-r37
-
-# Tags: 4.1.9-debian-10-r36
-FROM bitnami/codeigniter:4.1.9-debian-10-r36
-
-# Tags: 4.1.9-debian-10-r35
-FROM bitnami/codeigniter:4.1.9-debian-10-r35
-
-# Tags: 4.1.9-debian-10-r34
-FROM bitnami/codeigniter:4.1.9-debian-10-r34
